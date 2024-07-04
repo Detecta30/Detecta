@@ -50,15 +50,15 @@
     <div class="content">
         <div class="dashboard">
             <h2>Dashboard 1</h2>
-            <iframe src="URL_DE_TU_DASHBOARD_DE_LOOKERSTUDIO_1"></iframe>
+            <iframe src="https://lookerstudio.google.com/u/0/reporting/6edaa52b-6751-4bfe-a370-5fb20831f59d/page/Df03D"></iframe>
         </div>
         <div class="dashboard">
             <h2>Dashboard 2</h2>
-            <iframe src="URL_DE_TU_DASHBOARD_DE_LOOKERSTUDIO_2"></iframe>
+            <iframe src="https://lookerstudio.google.com/u/0/reporting/6edaa52b-6751-4bfe-a370-5fb20831f59d/page/Df03D"></iframe>
         </div>
         <div class="dashboard">
             <h2>Botmaker</h2>
-            <iframe src="URL_DE_TU_WEB_DE_BOTMAKER"></iframe>
+            <iframe src="https://go.botmaker.com/#/queues"></iframe>
         </div>
     </div>
     <footer>
